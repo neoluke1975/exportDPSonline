@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="exportDPSonline.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="exportDPSonline_fckLogin_farmaclick2010001Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://farmaclick.infarma.it/Farmaclick2010001FCKLogin</Value>
+    </Setting>
+    <Setting Name="exportDPSonline_FCKInfo_farmaclick2010001Service" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://farmaclick.infarma.it/Farmaclick2010001FCKInfoCom</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
